@@ -38,31 +38,3 @@ Solutions are automatically organized by LeetHub. Each problem directory general
 
 ## 🎯 Objective
 To consistently practice algorithmic problem-solving, rigorously analyze time and space complexities, and prepare for competitive programming contests like ICPC and Codeforces.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mahtabansari501/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mahtabansari501/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mahtabansari501/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mahtabansari501/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mahtabansari501/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mahtabansari501/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
-<!---LeetCode Topics End-->
