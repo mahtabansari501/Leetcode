@@ -38,23 +38,3 @@ Solutions are automatically organized by LeetHub. Each problem directory general
 
 ## 🎯 Objective
 To consistently practice algorithmic problem-solving, rigorously analyze time and space complexities, and prepare for competitive programming contests like ICPC and Codeforces.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/mahtabansari501/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/mahtabansari501/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/mahtabansari501/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/mahtabansari501/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
-<!---LeetCode Topics End-->
