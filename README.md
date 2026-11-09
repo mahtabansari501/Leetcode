@@ -45,12 +45,27 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/mahtabansari501/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/mahtabansari501/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/mahtabansari501/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
