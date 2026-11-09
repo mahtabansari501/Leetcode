@@ -60,6 +60,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +69,12 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 <!---LeetCode Topics End-->
