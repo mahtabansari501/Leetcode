@@ -66,6 +66,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/mahtabansari501/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -104,11 +105,13 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +122,5 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
