@@ -46,6 +46,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/mahtabansari501/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,8 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 <!---LeetCode Topics End-->
