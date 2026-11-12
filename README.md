@@ -109,12 +109,14 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,13 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
