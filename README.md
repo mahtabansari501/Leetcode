@@ -49,6 +49,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/mahtabansari501/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahtabansari501/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
@@ -81,6 +82,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mahtabansari501/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -137,4 +140,8 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
