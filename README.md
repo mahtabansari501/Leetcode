@@ -91,6 +91,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0688-knight-probability-in-chessboard](https://github.com/mahtabansari501/Leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Two Pointers
