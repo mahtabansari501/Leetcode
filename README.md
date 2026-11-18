@@ -49,6 +49,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/mahtabansari501/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/mahtabansari501/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahtabansari501/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -68,6 +69,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/mahtabansari501/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/mahtabansari501/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 ## Algorithm X
@@ -154,4 +156,8 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/mahtabansari501/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/mahtabansari501/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
