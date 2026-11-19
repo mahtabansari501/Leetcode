@@ -51,6 +51,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/mahtabansari501/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mahtabansari501/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahtabansari501/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
@@ -106,11 +107,13 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mahtabansari501/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mahtabansari501/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mahtabansari501/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mahtabansari501/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
