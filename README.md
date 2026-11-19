@@ -117,6 +117,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -125,6 +126,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -133,11 +135,13 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mahtabansari501/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
