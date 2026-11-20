@@ -52,6 +52,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0078-subsets](https://github.com/mahtabansari501/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mahtabansari501/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mahtabansari501/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahtabansari501/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
@@ -98,6 +99,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0337-house-robber-iii](https://github.com/mahtabansari501/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/mahtabansari501/Leetcode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mahtabansari501/Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mahtabansari501/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mahtabansari501/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mahtabansari501/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
