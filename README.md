@@ -54,12 +54,14 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mahtabansari501/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mahtabansari501/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahtabansari501/Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mahtabansari501/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/mahtabansari501/Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/mahtabansari501/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/mahtabansari501/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mahtabansari501/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | ------- | ------- |
 | [0282-expression-add-operators](https://github.com/mahtabansari501/Leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mahtabansari501/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mahtabansari501/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/mahtabansari501/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mahtabansari501/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +143,7 @@ To consistently practice algorithmic problem-solving, rigorously analyze time an
 | [0113-path-sum-ii](https://github.com/mahtabansari501/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahtabansari501/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/mahtabansari501/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mahtabansari501/Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
